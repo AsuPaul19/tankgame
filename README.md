@@ -1,7 +1,7 @@
 # csc413-tankgame
 
 ## Student Name  : Paul Asu
-## Student ID    : 920-164-16-
+## Student ID    : 920164164
 
 
 ## src folder is to be used for source code only.
