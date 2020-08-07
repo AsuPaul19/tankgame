@@ -6,7 +6,7 @@
 
 ## IDE: IntelliJ Idea 2018.2.3 (Ultimate Edition) IDE
 
-Java Version: Java JDK 12.0.2.
+## Java Version: Java JDK 12.0.2.
 
 ## Importing Instructions:
 Open the project in IntelliJ.
